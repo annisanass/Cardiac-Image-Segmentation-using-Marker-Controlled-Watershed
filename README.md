@@ -1,6 +1,7 @@
 Cardiac Image Segmentation using Marker-Controlled Watershed
 
 📌 Overview
+
 This project explores cardiac image segmentation using the marker-controlled watershed algorithm on CT images. The goal is to accurately extract heart structures such as the left atrium for medical analysis.
 
 🎯 Objectives
@@ -21,6 +22,7 @@ This project explores cardiac image segmentation using the marker-controlled wat
 - Over-segmentation reduced using marker-controlled approach
   
 🌍 Impact
+
 Accurate cardiac segmentation supports medical diagnosis and treatment planning.
 This project highlights how classical image processing methods remain effective and computationally efficient.
 
@@ -30,6 +32,7 @@ This project highlights how classical image processing methods remain effective 
 - Trade-off between detail and efficiency
 
 🛠️ Tools
+
 Python, NumPy, SciPy, scikit-image, Matplotlib, pydicom, Google Colab
 
 🚀 Future Work
