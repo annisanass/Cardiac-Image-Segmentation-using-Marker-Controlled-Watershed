@@ -39,4 +39,4 @@ Python, NumPy, SciPy, scikit-image, Matplotlib, pydicom, Google Colab
 - Quantitative evaluation (Dice, IoU)
 
 ## Additional Resources
-- Full report (Indonesian): docs/full_report_id.pdf
+- Full report (Indonesian): report/full_report_id.pdf
