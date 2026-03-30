@@ -1,4 +1,4 @@
-# Cardiac Image Segmentation using Marker-Controlled Watershed
+# Cardiac Image Segmentation Using Marker-Controlled Watershed
 
 ## Overview
 
