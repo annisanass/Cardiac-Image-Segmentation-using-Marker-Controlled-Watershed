@@ -15,6 +15,9 @@ This project explores cardiac image segmentation using the marker-controlled wat
 - Marker Generation: Internal & external markers
 - Segmentation: Marker-controlled watershed + morphology
 - Post-processing: Visualization & analysis
+
+## Tools
+Python, NumPy, SciPy, scikit-image, Matplotlib, pydicom, Google Colab
   
 ## Results
 - Successfully segmented cardiac regions across multiple datasets
@@ -24,19 +27,6 @@ This project explores cardiac image segmentation using the marker-controlled wat
 ## Impact
 Accurate cardiac segmentation supports medical diagnosis and treatment planning.
 This project highlights how classical image processing methods remain effective and computationally efficient.
-
-## Key Insights
-- Marker control improves segmentation accuracy
-- Marker selection is critical
-- Trade-off between detail and efficiency
-
-## Tools
-Python, NumPy, SciPy, scikit-image, Matplotlib, pydicom, Google Colab
-
-## Future Work
-- Deep learning integration (CNN, U-Net)
-- Larger datasets
-- Quantitative evaluation (Dice, IoU)
 
 ## Additional Resources
 - Full report (Indonesian): report/full_report_id.pdf
